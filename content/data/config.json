@@ -51,7 +51,7 @@
             },
             {
                 "label": "Kontakt",
-                "url": "https://github.com/",
+                "url": "contact",
                 "style": "primary",
                 "has_subnav": false
             }
