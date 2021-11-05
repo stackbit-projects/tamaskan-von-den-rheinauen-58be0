@@ -15,7 +15,7 @@ sections:
     subtitle: wenn sie Fragen haben
     actions:
       - label: Kontakt
-        url: '#'
+        url: /contact
         style: primary
         icon_class: dev
         new_window: false
