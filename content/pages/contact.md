@@ -14,17 +14,13 @@ sections:
       - title: E-Mail
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Sie können uns auch eine E-Mail schreiben: 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          <Tamaskan-von-den-Rheinauen@gmx.de>
 
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
     type: section_grid
 seo:
