@@ -39,7 +39,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: 'https://www.facebook.com/profile.php?id=100073756847361'
-            style: link
+            style: primary
             icon_class: facebook
             new_window: false
             no_follow: false
