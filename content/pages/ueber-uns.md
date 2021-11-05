@@ -14,7 +14,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: wenn sie Fragen haben
     actions:
-      - label: lorem-ipsum
+      - label: Kontakt
         url: '#'
         style: link
         icon_class: dev
