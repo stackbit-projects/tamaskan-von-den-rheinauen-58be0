@@ -20,7 +20,7 @@ sections:
           vieles mehr.
 
         actions:
-          - label: Get Started
+          - label: Mehr Erfahren
             url: /docs
             style: link
       - title: Erscheinung
