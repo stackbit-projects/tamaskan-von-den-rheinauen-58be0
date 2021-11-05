@@ -12,7 +12,7 @@ sections:
     type: section_content
   - title: Nehmen sie mit uns Kontakt auf
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: wenn sie Fragen haben
     actions:
       - label: lorem-ipsum
         url: '#'
