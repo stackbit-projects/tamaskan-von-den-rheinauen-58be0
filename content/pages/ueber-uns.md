@@ -10,7 +10,7 @@ sections:
       In Bearbeitung
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Nehmen sie mit uns Kontakt auf
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
