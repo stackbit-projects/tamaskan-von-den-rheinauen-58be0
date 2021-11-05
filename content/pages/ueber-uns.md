@@ -1,7 +1,7 @@
 ---
 title: Über uns
 sections:
-  - section_id: lorem-ipsum
+  - section_id: main-about
     image_alt: lorem-ipsum
     image_position: left
     content: |
