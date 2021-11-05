@@ -9,7 +9,7 @@ sections:
       - title: Telefon
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: "#### Mobil:\n\n#### [+49 176 32953174](tel:+4917632953174)\_&#xA;\n\n#### Festnetz:\n\n02133 / 694144\n"
+        content: "Sie können uns Mobil oder Privat unter den folgenden Nummern erreichen:\n\n\n\nMobil: [+49 176 32953174](tel:+4917632953174)\_\n\nPrivat: +49 2133 694144\n"
         actions: []
       - title: lorem-ipsum
         title_url: lorem-ipsum
