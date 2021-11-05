@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Über uns
 subtitle: lorem-ipsum
 seo:
   title: ''
