@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Kontakt
         url: '#'
-        style: icon
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
