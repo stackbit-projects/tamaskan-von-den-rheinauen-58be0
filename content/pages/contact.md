@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 sections:
-  - title: lorem-ipsum
+  - title: Wir sind auf allen Kanälen erreichbar
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
