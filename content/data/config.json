@@ -5,7 +5,7 @@
     "header": {
         "title": "Tamaskan von den Rheinauen",
         "logo_img_alt": "Libris logo",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Willkommen!",
