@@ -21,7 +21,7 @@ sections:
 
         actions:
           - label: Mehr Erfahren
-            url: /docs
+            url: /ueber-uns
             style: link
       - title: Erscheinung
         content: >
