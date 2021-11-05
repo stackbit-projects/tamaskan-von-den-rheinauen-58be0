@@ -28,7 +28,7 @@ sections:
           Wissen sie, was sie sich unter einem Tamaskan vorstellen können? Hier
           erfahren sie einiges über seine Gestalt, sein Aussehen und sein Wesen.
         actions:
-          - label: View Posts
+          - label: Mehr Informationen
             url: /blog
             style: link
       - title: Die Geschichte des Tamaskans
