@@ -114,8 +114,6 @@ models:
           type: model
           models:
             - action_menu
-      - name: ''
-        type: string
   footer:
     type: object
     label: Footer Configuration
