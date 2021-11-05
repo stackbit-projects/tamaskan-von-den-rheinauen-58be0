@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Geschichte
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
