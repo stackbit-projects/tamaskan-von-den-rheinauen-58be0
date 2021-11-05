@@ -22,7 +22,7 @@ sections:
           <Tamaskan-von-den-Rheinauen@gmx.de>
 
         actions: []
-      - title: lorem-ipsum
+      - title: Social-Media
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
