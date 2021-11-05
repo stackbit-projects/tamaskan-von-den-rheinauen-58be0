@@ -24,9 +24,9 @@ sections:
             url: /docs
             style: link
       - title: Erscheinung
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Wissen sie, was sie sich unter einem Tamaskan vorstellen können? Hier
+          erfahren sie einiges über seine Gestalt, sein Aussehen und sein Wesen.
         actions:
           - label: View Posts
             url: /blog
