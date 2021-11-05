@@ -1,7 +1,7 @@
 ---
 title: Geschichte
 sections:
-  - title: lorem-ipsum
+  - title: Geschichte
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
