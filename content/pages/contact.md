@@ -25,17 +25,9 @@ sections:
       - title: Social-Media
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Zur Zeit sind wir auch auf Facebook vertreten. Sie können uns dort für
+          Updates folgen: 
         actions:
           - label: lorem-ipsum
             url: 'https://www.facebook.com/profile.php?id=100073756847361'
