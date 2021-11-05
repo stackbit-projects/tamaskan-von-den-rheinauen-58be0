@@ -44,12 +44,6 @@
                 ]
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Kontakt",
                 "url": "contact",
                 "style": "primary",
