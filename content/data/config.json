@@ -33,7 +33,7 @@
                 "subnav_links": [
                     {
                         "label": "Erscheinung",
-                        "url": "/overview",
+                        "url": "/erscheinung",
                         "style": "link"
                     },
                     {
