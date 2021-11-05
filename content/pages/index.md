@@ -29,7 +29,7 @@ sections:
           erfahren sie einiges über seine Gestalt, sein Aussehen und sein Wesen.
         actions:
           - label: Mehr Informationen
-            url: /blog
+            url: /erscheinung
             style: link
       - title: Die Geschichte des Tamaskans
         content: "Der Tamaskan ist eine von der\_FCI nicht anerkannte und noch seltene Hunderasse aus Finnland, die mit dem Ziel gezüchtet wird, dem Wolf so ähnlich wie möglich zu sehen, ohne dabei die positiven Eigenschaften eines\_Haushundes zu verlieren.\n"
