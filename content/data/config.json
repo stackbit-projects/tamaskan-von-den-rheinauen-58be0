@@ -32,7 +32,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
+                        "label": "Erscheinung",
                         "url": "/overview",
                         "style": "link"
                     },
