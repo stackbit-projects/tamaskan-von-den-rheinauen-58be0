@@ -40,7 +40,7 @@ sections:
           - label: lorem-ipsum
             url: '#'
             style: link
-            icon_class: dev
+            icon_class: facebook
             new_window: false
             no_follow: false
     type: section_grid
