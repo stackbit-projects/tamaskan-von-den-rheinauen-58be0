@@ -15,7 +15,7 @@
             },
             {
                 "label": "Über uns",
-                "url": "/docs",
+                "url": "/ueber-uns",
                 "style": "link",
                 "has_subnav": false
             },
