@@ -35,7 +35,7 @@ sections:
         content: "Der Tamaskan ist eine von der\_FCI nicht anerkannte und noch seltene Hunderasse aus Finnland, die mit dem Ziel gezüchtet wird, dem Wolf so ähnlich wie möglich zu sehen, ohne dabei die positiven Eigenschaften eines\_Haushundes zu verlieren.\n"
         actions:
           - label: Mehr lesen
-            url: /style-guide
+            url: /
             style: link
 seo:
   title: Stackbit Libris Theme
