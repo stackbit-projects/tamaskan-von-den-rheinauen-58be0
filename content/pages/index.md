@@ -15,10 +15,10 @@ sections:
     col_number: three
     grid_items:
       - title: Über uns
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >+
+          Erfahren sie mehr über Luna, unsere Erfahrungen unsere Hunde und
+          vieles mehr.
+
         actions:
           - label: Get Started
             url: /docs
