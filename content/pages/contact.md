@@ -6,7 +6,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Telefon
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
