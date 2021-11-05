@@ -29,7 +29,7 @@ sections:
           Zur Zeit sind wir auch auf Facebook vertreten. Sie können uns dort für
           Updates folgen: 
         actions:
-          - label: lorem-ipsum
+          - label: Bring mich dort hin
             url: 'https://www.facebook.com/profile.php?id=100073756847361'
             style: icon
             icon_class: dev
