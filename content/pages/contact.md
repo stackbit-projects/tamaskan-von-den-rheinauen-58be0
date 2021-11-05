@@ -11,7 +11,7 @@ sections:
         image_alt: lorem-ipsum
         content: "\n\nSie können uns Mobil oder Privat unter den folgenden Nummern erreichen:\n\nMobil: [+49 176 32953174](tel:+4917632953174)\_\n\nPrivat: +49 2133 694144\n"
         actions: []
-      - title: lorem-ipsum
+      - title: E-Mail
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
