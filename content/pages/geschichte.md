@@ -1,7 +1,7 @@
 ---
 title: Geschichte
 sections:
-  - title: Geschichte des Tamaskans
+  - title: Die Geschichte des Tamaskans
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
