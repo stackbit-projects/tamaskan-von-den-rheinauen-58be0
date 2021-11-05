@@ -32,7 +32,7 @@ sections:
           - label: lorem-ipsum
             url: 'https://www.facebook.com/profile.php?id=100073756847361'
             style: icon
-            icon_class: youtube
+            icon_class: dev
             new_window: true
             no_follow: false
     type: section_grid
