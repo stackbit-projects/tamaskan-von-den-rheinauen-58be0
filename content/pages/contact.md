@@ -38,7 +38,7 @@ sections:
           - dolor sit amet
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: 'https://www.facebook.com/profile.php?id=100073756847361'
             style: link
             icon_class: facebook
             new_window: false
