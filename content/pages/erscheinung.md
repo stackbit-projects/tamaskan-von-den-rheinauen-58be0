@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Erscheinung des Tamaskans
 sections: []
 seo:
   title: ''
