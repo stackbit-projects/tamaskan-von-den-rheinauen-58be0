@@ -9,10 +9,7 @@ sections:
       Schön sie auf unserer Seite Begrüßen zu dürfen. Schauen sie sich gerne um.
 
       ### Seite in Bearbeitung...
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
