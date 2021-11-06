@@ -23,14 +23,6 @@ sections:
           - label: Mehr Erfahren
             url: /ueber-uns
             style: link
-      - title: Erscheinung
-        content: >
-          Wissen sie, was sie sich unter einem Tamaskan vorstellen können? Hier
-          erfahren sie einiges über seine Gestalt, sein Aussehen und sein Wesen.
-        actions:
-          - label: Mehr Informationen
-            url: /erscheinung
-            style: link
       - title: Die Geschichte des Tamaskans
         content: "Der Tamaskan ist eine von der\_FCI nicht anerkannte und noch seltene Hunderasse aus Finnland, die mit dem Ziel gezüchtet wird, dem Wolf so ähnlich wie möglich zu sehen, ohne dabei die positiven Eigenschaften eines\_Haushundes zu verlieren.\n"
         actions:
