@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Willkommen!
-    image: images/5.jpg
+    image: /images/N04A7960-Bearbeitet.JPG
     content: |
       Schön sie auf unserer Seite Begrüßen zu dürfen. Schauen sie sich gerne um.
 
